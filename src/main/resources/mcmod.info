@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "TestMod",
+    "name": "Test Mod",
+    "description": "Making my first mod got me like WHAAAAAAA",
+    "version": "1.0",
+    "credits": "pahimar! For his YouTube series!",
+    "logoFile": "",
+    "mcversion": "1.8.9",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "p18sch"
+    ],
+    "parent":"",
+    "screenshots": [],
+    "dependencies": [
+    ]
+  }
+]
